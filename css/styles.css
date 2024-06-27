@@ -1,0 +1,120 @@
+
+
+html, body {
+    margin: 0;
+    min-height: 100%;
+    min-width: 100%;
+    padding: 0;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    min-height: 100vh;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .text-node { background-clip: text !important; -webkit-background-clip: text !important; }
+  
+  /* kolory */
+  .kolory-624dd9962e7b {
+    position: relative;
+    width: 718px;
+    height: 636px;
+    background: #FFFFFF;
+    overflow: hidden;
+    z-index: 0;
+  }
+  
+  /* Rectangle */
+  .rectangle-61d6fcf90335 {
+    position: absolute;
+    left: 561px;
+    top: 94px;
+    width: 114px;
+    height: 114px;
+    background: #FFFFFF;
+    border-radius: 0px;
+  }
+  
+  /* Rectangle */
+  .rectangle-61d6d66a52c8 {
+    position: absolute;
+    left: 390px;
+    top: 94px;
+    width: 114px;
+    height: 114px;
+    background: #38A2DC;
+    border-radius: 0px;
+  }
+  
+  /* Rectangle */
+  .rectangle-61f568375765 {
+    position: absolute;
+    left: 78px;
+    top: 274px;
+    width: 114px;
+    height: 114px;
+    background: #00305E;
+    border-radius: 0px;
+  }
+  
+  /* Rectangle */
+  .rectangle-62062563b741 {
+    position: absolute;
+    left: 561px;
+    top: 274px;
+    width: 114px;
+    height: 114px;
+    background: #D40200;
+    border-radius: 0px;
+  }
+  
+  /* Rectangle */
+  .rectangle-6206222c59d9 {
+    position: absolute;
+    left: 393px;
+    top: 274px;
+    width: 114px;
+    height: 114px;
+    background: #FF0400;
+    border-radius: 0px;
+  }
+  
+  /* Rectangle */
+  .rectangle-61f53daf0e50 {
+    position: absolute;
+    left: 235px;
+    top: 274px;
+    width: 114px;
+    height: 114px;
+    background: #FFEC00;
+    border-radius: 0px;
+  }
+  
+  /* Rectangle */
+  .rectangle-61d6d116c560 {
+    position: absolute;
+    left: 235px;
+    top: 94px;
+    width: 114px;
+    height: 114px;
+    background: #0053A1;
+    border-radius: 0px;
+  }
+  
+  /* Rectangle */
+  .rectangle-61d6c4615811 {
+    position: absolute;
+    left: 78px;
+    top: 94px;
+    width: 114px;
+    height: 114px;
+    background: #1F1146;
+    border-radius: 0px;
+  }
