@@ -11,7 +11,7 @@ html, body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 100%;
+    width: 100vw;
     min-height: 100vh;
   }
   
@@ -21,10 +21,23 @@ html, body {
   
   .text-node { background-clip: text !important; -webkit-background-clip: text !important; }
   
+  /* bodykolory */
+  .bodykolory-91bf64ebe528 {
+    position: relative;
+    width: 781px;
+    height: 700px;
+    background: #FFFFFF;
+    overflow: hidden;
+    z-index: 0;
+  }
+  
   /* kolory */
   .kolory-624dd9962e7b {
-    position: relative;
-    width: 100%;
+    position: absolute;
+    left: 0px;
+    top: 27px;
+    width: 781px;
+    height: 636px;
     background: #FFFFFF;
     overflow: hidden;
     display: flex;
@@ -33,10 +46,8 @@ html, body {
     justify-content: start;
     gap: 50px;
     padding: 80px 80px 80px 80px;
-    z-index: 0;
     flex-direction: row-reverse;
     flex-wrap: wrap;
-    flex-grow: 1;
   }
   
   /* Rectangle */
