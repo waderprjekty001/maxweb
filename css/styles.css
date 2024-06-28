@@ -24,9 +24,9 @@ html, body {
   /* bodykolory */
   .bodykolory-91bf64ebe528 {
     position: relative;
-    width: 781px;
-    height: 700px;
-    background: #FFFFFF;
+    width: 642px;
+    height: 703px;
+    background: #BCBCBC;
     overflow: hidden;
     z-index: 0;
   }
@@ -36,7 +36,7 @@ html, body {
     position: absolute;
     left: 0px;
     top: 27px;
-    width: 781px;
+    width: 642px;
     height: 636px;
     background: #E9E9E9;
     overflow: hidden;
